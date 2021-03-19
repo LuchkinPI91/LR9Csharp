@@ -1,0 +1,13 @@
+C:\Users\gamel\source\repos\labr9 c sharp\bin\Debug\netcoreapp3.1\labr9 c sharp.exe
+C:\Users\gamel\source\repos\labr9 c sharp\bin\Debug\netcoreapp3.1\labr9 c sharp.deps.json
+C:\Users\gamel\source\repos\labr9 c sharp\bin\Debug\netcoreapp3.1\labr9 c sharp.runtimeconfig.json
+C:\Users\gamel\source\repos\labr9 c sharp\bin\Debug\netcoreapp3.1\labr9 c sharp.runtimeconfig.dev.json
+C:\Users\gamel\source\repos\labr9 c sharp\bin\Debug\netcoreapp3.1\labr9 c sharp.dll
+C:\Users\gamel\source\repos\labr9 c sharp\bin\Debug\netcoreapp3.1\labr9 c sharp.pdb
+C:\Users\gamel\source\repos\labr9 c sharp\obj\Debug\netcoreapp3.1\labr9 c sharp.csprojAssemblyReference.cache
+C:\Users\gamel\source\repos\labr9 c sharp\obj\Debug\netcoreapp3.1\labr9 c sharp.AssemblyInfoInputs.cache
+C:\Users\gamel\source\repos\labr9 c sharp\obj\Debug\netcoreapp3.1\labr9 c sharp.AssemblyInfo.cs
+C:\Users\gamel\source\repos\labr9 c sharp\obj\Debug\netcoreapp3.1\labr9 c sharp.csproj.CoreCompileInputs.cache
+C:\Users\gamel\source\repos\labr9 c sharp\obj\Debug\netcoreapp3.1\labr9 c sharp.dll
+C:\Users\gamel\source\repos\labr9 c sharp\obj\Debug\netcoreapp3.1\labr9 c sharp.pdb
+C:\Users\gamel\source\repos\labr9 c sharp\obj\Debug\netcoreapp3.1\labr9 c sharp.genruntimeconfig.cache
